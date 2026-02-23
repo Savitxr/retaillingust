@@ -1,0 +1,9 @@
+com/ustspring/retailingg/product/ProductRepository.class
+com/ustspring/retailingg/user/UserRepository.class
+com/ustspring/retailingg/user/User.class
+com/ustspring/retailingg/product/ProductService.class
+com/ustspring/retailingg/RetailinggApplication.class
+com/ustspring/retailingg/product/Product.class
+com/ustspring/retailingg/user/UserController.class
+com/ustspring/retailingg/user/UserService.class
+com/ustspring/retailingg/product/ProductController.class

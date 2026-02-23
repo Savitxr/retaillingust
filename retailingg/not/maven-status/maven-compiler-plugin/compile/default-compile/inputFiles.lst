@@ -1,0 +1,9 @@
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/RetailinggApplication.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/product/Product.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/product/ProductController.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/product/ProductRepository.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/product/ProductService.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/user/User.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/user/UserController.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/user/UserRepository.java
+/home/ubuntu/pem/retailingg/src/main/java/com/ustspring/retailingg/user/UserService.java
